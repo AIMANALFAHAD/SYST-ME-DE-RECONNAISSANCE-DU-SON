@@ -1,0 +1,22 @@
+Ceci est un système de reconnaissance sonore développé par Aiman AL-FAHAD.
+Cette application de reconnaissance sonore a été développée pour aider à sécuriser :
+ 
+
+
+LES MARCHÉS:
+
+CONVERTIR LE SON EN SPECTROGRAMME:
+
+1-Cliquez En "Convertir Le Son En Spect" , prenez le Ton Du Fichier De Votre PC. 
+2-La Tonalité Audio Sera Convertie En SPECTROGRAMME.
+
+SON DE RECONNAISSANCE:
+1-Cliquez En "CLASSIFICATION" , prenez le Ton Du Fichier De Votre PC. 
+2- L'application classera les tonalités audio à l'aide d'un modèle "YOLO", 
+et une nouvelle fenêtre apparaîtra avec deux options, la première option Est "Afficher" 
+Le nom de la classe à laquelle appartient la tonalité n'est pas affiché, 	     
+La deuxième option consiste à quitter la fenêtre actuelle.
+			  
+			  
+  
+		Aiman AL-FAHAD	  
